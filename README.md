@@ -1,5 +1,5 @@
 # Rossaveltevents
-# RosseveltEvents
+
 
 ## Overview
 RosseveltEvents is an event management platform designed to streamline the process of organizing and managing events. The platform provides users with an intuitive interface to create, manage, and track events effortlessly.
